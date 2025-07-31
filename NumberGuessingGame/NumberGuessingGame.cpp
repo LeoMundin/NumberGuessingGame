@@ -75,18 +75,44 @@ void NumberGuessingGame::ProcessGuess(int attemptIndex) {
         RestartGame();
 
     }
-    // Guess too low
-    else if (currentGuess < targetNumber)
+    else 
+    {
+        EvaluateGuessError(currentGuess);
+    }
+
+
+}
+
+// Compares the value of the guess against the target number and determines how far off the guess is from the actual target value, 
+// providing appropriate hints on the degree of inaccuracy.
+void NumberGuessingGame::EvaluateGuessError(int guessValue) 
+{
+    // Guess really low
+    if (guessValue < targetNumber - 10)
     {
 
-        cout << "That guess is a little low, try again \n";
+        cout << "That guess is far too low, try again \n";
 
     }
-    // Guess too high
-    else if (currentGuess > targetNumber)
+    // Guess low.
+    else if (guessValue < targetNumber)
     {
 
-        cout << "That guess is a little High, try again \n";
+        cout << "That guess is a little too low, try again \n";
+
+    }
+    // Guess really high
+    else if (guessValue > targetNumber + 10)
+    {
+
+        cout << "That guess is far too high, try again \n";
+
+    }
+    // Guess high.
+    else if (guessValue > targetNumber)
+    {
+
+        cout << "That guess is a little too high, try again \n";
 
     }
 

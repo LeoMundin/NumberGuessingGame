@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\Personal\\C\u002B\u002B\\Masters Prep\\Module 1\\NumberGuessingGame\\NumberGuessingGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E76621A8-D558-48AE-BCBD-B396F240B67D}|NumberGuessingGame.vcxproj|E:\\Personal\\C\u002B\u002B\\Masters Prep\\Module 1\\NumberGuessingGame\\NumberGuessingGame\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E76621A8-D558-48AE-BCBD-B396F240B67D}|NumberGuessingGame.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E76621A8-D558-48AE-BCBD-B396F240B67D}|NumberGuessingGame.vcxproj|E:\\Personal\\C\u002B\u002B\\Masters Prep\\Module 1\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E76621A8-D558-48AE-BCBD-B396F240B67D}|NumberGuessingGame.vcxproj|solutionrelative:NumberGuessingGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E76621A8-D558-48AE-BCBD-B396F240B67D}|NumberGuessingGame.vcxproj|E:\\Personal\\C\u002B\u002B\\Masters Prep\\Module 1\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E76621A8-D558-48AE-BCBD-B396F240B67D}|NumberGuessingGame.vcxproj|solutionrelative:NumberGuessingGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E76621A8-D558-48AE-BCBD-B396F240B67D}|NumberGuessingGame.vcxproj|E:\\Personal\\C\u002B\u002B\\Masters Prep\\Module 1\\NumberGuessingGame\\NumberGuessingGame\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E76621A8-D558-48AE-BCBD-B396F240B67D}|NumberGuessingGame.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NumberGuessingGame.cpp",
               "DocumentMoniker": "E:\\Personal\\C\u002B\u002B\\Masters Prep\\Module 1\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.cpp",
               "RelativeDocumentMoniker": "NumberGuessingGame.cpp",
               "ToolTip": "E:\\Personal\\C\u002B\u002B\\Masters Prep\\Module 1\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.cpp",
               "RelativeToolTip": "NumberGuessingGame.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-29T14:19:23.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NumberGuessingGame.h",
               "DocumentMoniker": "E:\\Personal\\C\u002B\u002B\\Masters Prep\\Module 1\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.h",
               "RelativeDocumentMoniker": "NumberGuessingGame.h",
               "ToolTip": "E:\\Personal\\C\u002B\u002B\\Masters Prep\\Module 1\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.h",
               "RelativeToolTip": "NumberGuessingGame.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-29T14:19:06.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Main.cpp",
               "DocumentMoniker": "E:\\Personal\\C\u002B\u002B\\Masters Prep\\Module 1\\NumberGuessingGame\\NumberGuessingGame\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "E:\\Personal\\C\u002B\u002B\\Masters Prep\\Module 1\\NumberGuessingGame\\NumberGuessingGame\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-27T11:09:35.991Z",
               "EditorCaption": ""

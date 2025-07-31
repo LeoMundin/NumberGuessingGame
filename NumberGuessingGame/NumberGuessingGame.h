@@ -6,10 +6,6 @@
 using namespace std;
 
 
-//TODO: 
-//  - Add variable "Higher, lower" depending on how far off the guess is.
-
-
 class NumberGuessingGame 
 {
 
@@ -29,6 +25,8 @@ public:
 private:
     
     void ProcessGuess(int attemptIndex);
+
+    void EvaluateGuessError(int guessValue);
     
     void TeminateGame();
 
